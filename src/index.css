@@ -1,0 +1,326 @@
+
+header{
+    border: 2px solid blue;
+    width: 1920px;
+    height: 72px;
+    background: #FFFFFF;
+    margin-left: 10px;
+    
+}
+#icon1{
+    margin-top: 11px;
+    width: 150px;
+    height: 45px;
+    margin-left: 50px;
+    
+}
+#icon2{
+    margin-left: 70px;
+    margin-top: -150px;
+    
+    
+}
+#icon3{
+    margin-left: 700px;
+}
+#icon4{
+    margin-left: 1400px;
+    margin-top: -30px;
+}
+#icon5{
+    border: 2px solid #0096FF;
+    height: 40px;
+    width: 166px;
+    border: #0096FF solid 2px;
+    background-color: #0096FF;
+    color: #FFFFFF;
+    text-align: center;
+    margin-left: 1650px;
+    margin-top: -60px;
+    
+    border-radius: 52px;
+    padding-top: 20px;
+}
+#one{
+    border: 2px solid blue;
+    width: 1920px;
+    height: 1008px;
+    background: #3C4852;
+    margin-top: 1px;
+    padding-top: 10px;
+    margin-left: 8px;
+    
+}
+
+
+#two{
+    border: 2px solid blue;
+    width: 549px;
+    height: 881px;
+    background-color: #FFFFFF;
+    margin-top: -960px;
+    margin-left: 1350px;
+}
+#three{
+    padding-left: 100px;
+    padding-top: 50px;
+}
+#four{
+    padding-left: 250px;
+}
+#five{
+    font-family: roboto;
+    font-size: 24px;
+    padding-left: 120px;
+}
+#six{
+    border: 2px solid #BEBEBE;
+    width: 501px;
+    height: 65px;
+    background-color: #BEBEBE;
+    margin-left: 20px;
+    
+}
+
+#seven{
+    border: 2px solid #F77171;
+    width: 121px;
+    height: 16px;
+    margin-top: -2px;
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    text-align: center;
+    margin-left: 60px;
+    background-color: #F77171;
+    color: #FFFFFF;
+}
+#eight{
+    height: 16px;
+    width: 16px;
+    margin-left: 20px;
+    margin-top: -20px;
+}
+#nine{
+    margin-top: -21px;
+    margin-left: 70px;
+    font-size: 16px;
+    color: #3C4852;
+}
+#ten{
+    margin-left: 410px;
+    margin-top: -58px;
+    font-size: 16px;
+    color: #3C4852;
+}
+#eleven{
+    margin-left: 425px;
+    margin-top: -17px;
+    font-size: 16px;
+    color: #3C4852;
+
+}
+#twelve{
+    border: 2px solid #BEBEBE;
+    width: 501px;
+    height: 65px;
+    background-color: #D7EDDD;
+    margin-left: 20px;
+    margin-top: 10px;
+    
+}
+
+#thirteen{
+    border: 2px solid #47BA68;
+    width: 121px;
+    height: 16px;
+    margin-top: -2px;
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    text-align: center;
+    margin-left: 60px;
+    background-color: #47BA68;
+    color: #FFFFFF;
+}
+#fourteen{
+    height: 16px;
+    width: 16px;
+    margin-left: 20px;
+    margin-top: -20px;
+}
+#fifteen{
+    margin-top: -21px;
+    margin-left: 70px;
+    font-size: 16px;
+    color: #3C4852;
+}
+#sixteen{
+    margin-left: 410px;
+    margin-top: -58px;
+    font-size: 16px;
+    color: #3C4852;
+}
+#seventeen{
+    margin-left: 425px;
+    margin-top: -17px;
+    font-size: 16px;
+    color: #3C4852;
+
+}
+#eighteen{
+    border: 2px solid #BEBEBE;
+    width: 501px;
+    height: 65px;
+    background-color: #D7EDDD;
+    margin-top: 10px;
+    margin-left: 20px;
+
+}
+#twenty{
+    height: 16px;
+    width: 16px;
+    margin-left: 20px;
+    margin-top: 25px;
+}
+#tone{
+    font-size: 16px;
+    color: #3C4852;
+    margin-top: -21px;
+    margin-left: 70px;
+}
+#ttwo{
+    margin-left: 410px;
+    margin-top: -58px;
+    font-size: 16px;
+    color: #3C4852;
+}
+#tthree{
+    margin-left: 425px;
+    margin-top: -17px;
+    font-size: 16px;
+    color: #3C4852;
+}
+#tfour{
+    border: 2px solid #FFFFFF;
+    width: 501px;
+    height: 180px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+#tfive{
+    font-size: 16px;
+    margin-left: 19px;
+}
+#tsix{
+    border: 2px solid #DE4313;
+    width: 501px;
+    height: 76px;
+    border-radius: 8px;
+    background-color: #F8A954;
+}
+#tseven{
+    margin-top: -85px;
+    margin-left: 15px;
+    color: #3C4852;
+}
+#teight{
+    margin-left: 414px;
+    margin-top: -31px;
+}
+#tnine{
+    height: 20px;
+    width: 20px;
+    margin-top: -10px;
+    margin-left: 20px;
+    
+}
+#aone{
+    color: #DE4313;
+    font-size: 14px;
+    margin-top: -20px;
+    margin-left: 55px;
+}
+#atwo{
+    color: #3C4852;
+    font-size: 16px;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+#athree{
+    color: #3C4852;
+    font-size: 24px;
+    margin-top: -33px;
+    margin-left: 430px;
+}
+#afour{
+    width: 242.5px;
+    height: 56px;
+    border: 2px solid#F8A954;
+    background-color: #FFFFFF;
+    color: #F77171;
+    font-size: 16px;
+    margin-top: 5px;
+    margin-left: 30px;
+}
+#afive{
+    width: 242.5px;
+    height: 56px;
+    border: 2px solid#F8A954;
+    background-color: #47BA68;
+    color: #FFFFFF;
+    font-size: 16px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+#asix{
+    width: 120px;
+    height: 42.69px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+#aseven{
+    color: #FFFFFF;
+    font-size: 90px;
+    margin-top: -920px;
+    margin-left: 160px;
+}
+#aeight{
+    text-decoration-color: #FF0000;
+}
+#anine{
+    color: #0096FF;
+}
+#bone{
+   margin-left: 200px;
+}
+#btwo{
+    font-style: mixed;
+    font-size: 32px;
+    margin-top: -66px;
+    margin-left: 350px;
+    color: #FFFFFF;
+}
+#bthree{
+    color: #0096FF;
+}
+#bfour{
+    font-style: mixed;
+    font-size: 32px;
+    margin-top: -50px;
+    margin-left: 350px;
+    color: #FFFFFF;
+}
+#bfive{
+    color: #0096FF;
+}
+#bsix{
+    margin-top: -300px;
+    
+}
+
+
+
+
+
+
+
+
